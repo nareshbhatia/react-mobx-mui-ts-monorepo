@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nareshbhatia/lerna-workspaces-react-ts.git"
+    "url": "https://github.com/nareshbhatia/react-mobx-mui-ts-monorepo.git"
   },
   "workspaces": [
     "packages/*"
