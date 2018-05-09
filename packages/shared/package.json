@@ -17,15 +17,16 @@
     "build-storybook": "build-storybook"
   },
   "peerDependencies": {
+    "@material-ui-icons": "^1.x",
     "classnames": "^2.x",
     "material-ui": "^1.x",
-    "material-ui-icons": "^1.x",
     "mobx": "^4.x",
     "mobx-react": "^5.x",
     "react": "^16.x",
     "react-dom": "^16.x"
   },
   "devDependencies": {
+    "@material-ui/icons": "^1.0.0-beta.43",
     "@storybook/react": "^3.4.1",
     "@types/classnames": "^2.2.3",
     "@types/enzyme": "^3.1.9",
@@ -42,7 +43,6 @@
     "glob-loader": "^0.3.0",
     "jest": "^22.1.4",
     "material-ui": "^1.0.0-beta.44",
-    "material-ui-icons": "^1.0.0-beta.36",
     "mobx": "^4.2.1",
     "mobx-react": "^5.1.2",
     "react": "^16.3.2",
