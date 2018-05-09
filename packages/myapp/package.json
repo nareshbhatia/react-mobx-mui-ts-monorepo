@@ -12,7 +12,7 @@
     "@material-ui/icons": "^1.0.0-beta.43",
     "classnames": "^2.2.5",
     "history": "^4.7.2",
-    "material-ui": "^1.0.0-beta.44",
+    "material-ui": "1.0.0-beta.44",
     "mobx": "^4.2.1",
     "mobx-react": "^5.1.2",
     "mobx-state-router": "^3.0.1",
