@@ -1,5 +1,5 @@
-React TypeScript Template using Lerna and Yarn Workspaces
-=========================================================
+React, MobX, Material-UI Monorepo using TypeScript
+==================================================
 
 Tech Stack
 ----------
