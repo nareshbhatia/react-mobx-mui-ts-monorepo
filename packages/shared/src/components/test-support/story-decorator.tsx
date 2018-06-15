@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
 import { getTestTheme } from './get-test-theme';
 
 const shellStyle: React.CSSProperties = {

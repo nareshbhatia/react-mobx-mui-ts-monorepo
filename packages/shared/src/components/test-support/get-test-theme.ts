@@ -1,10 +1,10 @@
-import { PaletteType } from 'material-ui';
-import blue from 'material-ui/colors/blue';
-import pink from 'material-ui/colors/pink';
-import red from 'material-ui/colors/red';
-import createMuiTheme, { Theme } from 'material-ui/styles/createMuiTheme';
-import { PaletteOptions } from 'material-ui/styles/createPalette';
-import { Overrides } from 'material-ui/styles/overrides';
+import { PaletteType } from '@material-ui/core';
+import blue from '@material-ui/core/colors/blue';
+import pink from '@material-ui/core/colors/pink';
+import red from '@material-ui/core/colors/red';
+import createMuiTheme, { Theme } from '@material-ui/core/styles/createMuiTheme';
+import { PaletteOptions } from '@material-ui/core/styles/createPalette';
+import { Overrides } from '@material-ui/core/styles/overrides';
 
 const paletteType: PaletteType = 'light';
 

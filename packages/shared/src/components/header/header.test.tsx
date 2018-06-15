@@ -1,7 +1,7 @@
 import * as React from 'react';
 
 import { mount } from 'enzyme';
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
 import { getTestTheme } from '../test-support/get-test-theme';
 import { Header } from './header';
 

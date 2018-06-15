@@ -1,7 +1,7 @@
 import * as React from 'react';
 
-import { WithStyles, withStyles } from 'material-ui/styles';
-import { Theme } from 'material-ui/styles/createMuiTheme';
+import { WithStyles, withStyles } from '@material-ui/core/styles';
+import { Theme } from '@material-ui/core/styles/createMuiTheme';
 import { inject } from 'mobx-react';
 import { RouterView, ViewMap } from 'mobx-state-router';
 import { HomePage } from './features/home/home-page';

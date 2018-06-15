@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
+import MuiThemeProvider from '@material-ui/core/styles/MuiThemeProvider';
 import { Provider } from 'mobx-react';
 import { HistoryAdapter } from 'mobx-state-router';
 import { getTestTheme } from 'shared';
